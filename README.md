@@ -15,3 +15,7 @@ This project requires CMake (v3.4 or higher). Build steps:
 
 ## Plus Metarials:
 FreeImage (v3.17) is available via this [link](http://downloads.sourceforge.net/freeimage/FreeImage3170.zip). As FreeImage is using GPLv3, this project is using GPLv3 too.
+
+## Sub Libraries
+
+- libpng-1.6.25
